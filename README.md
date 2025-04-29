@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazanaltintop" alt="ramazanaltintop" /></a> </p>
 
-- 🌱 I’m currently learning **Dotnet**
-
 - 📝 I regularly write articles on [https://ramazanaltintop.github.io/](https://ramazanaltintop.github.io/)
 
 ### Blogs posts
