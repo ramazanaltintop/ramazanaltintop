@@ -1,13 +1,10 @@
+![Hello-World](https://github.com/ramazanaltintop/ramazanaltintop/blob/main/assets/HelloWorld.png)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramazanaltintop/ramazanaltintop/output/github-snake-dark.svg?palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramazanaltintop/ramazanaltintop/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/ramazanaltintop/ramazanaltintop/output/github-snake.svg" />
 </picture>
-
-<h1 align="center">Hi 👋, I'm Ramazan Altıntop</h1>
-<h3 align="center">Computer Engineer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramazanaltintop" alt="ramazanaltintop" /></a> </p>
 
 - 📝 I regularly write articles on [https://ramazanaltintop.github.io/](https://ramazanaltintop.github.io/)
 
