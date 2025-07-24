@@ -6,8 +6,6 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/ramazanaltintop/ramazanaltintop/output/github-snake.svg" />
 </picture>
 
-- 📝 I regularly write articles on [https://ramazanaltintop.github.io/](https://ramazanaltintop.github.io/)
-
 ## 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Binary Tree Traversals](https://ramazanaltintop.github.io/post/4258517504.html)
