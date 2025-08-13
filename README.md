@@ -1,4 +1,4 @@
-![Hello-World](https://github.com/ramazanaltintop/ramazanaltintop/blob/main/assets/HelloWorld.png)
+<!--![Hello-World](https://github.com/ramazanaltintop/ramazanaltintop/blob/main/assets/HelloWorld.png)-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramazanaltintop/ramazanaltintop/output/github-snake-dark.svg?palette=github-dark" />
