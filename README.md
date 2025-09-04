@@ -8,11 +8,7 @@
 
 ## 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Binary Tree Traversals](https://ramazanaltintop.github.io/post/4258517504.html)
-- [My unqualified hostname &lpar;foo.bar&rpar; unknown: sleeping for retry](https://ramazanaltintop.github.io/post/1659074625.html)
 - [.NET Uygulamalarının Çalışma Yapısı: Derleme ve Çalıştırma Süreçleri](https://ramazanaltintop.github.io/post/390419117.html)
-- [Arduino Cloud ile Bulut Uygulaması Nasıl Yapılır?](https://ramazanaltintop.github.io/post/145531956.html)
-- [Wemos D1 R1 Yapılandırması Nasıl Yapılır?](https://ramazanaltintop.github.io/post/1729220706.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with me
