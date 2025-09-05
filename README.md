@@ -8,6 +8,7 @@
 
 ## 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular Temelleri: SPA, TypeScript ve İlk Adımlar](https://ramazanaltintop.github.io/post/1919449830.html)
 - [.NET Uygulamalarının Çalışma Yapısı: Derleme ve Çalıştırma Süreçleri](https://ramazanaltintop.github.io/post/390419117.html)
 <!-- BLOG-POST-LIST:END -->
 
